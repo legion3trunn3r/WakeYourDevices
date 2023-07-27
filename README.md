@@ -9,6 +9,5 @@ This code was written by Legion
 WakeYourDevices USAGE:
 ```
 python3 wakeyourdevices.py		# To run this script
-
 ```
 
