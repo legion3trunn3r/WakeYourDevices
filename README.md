@@ -1,4 +1,4 @@
-<img src="https://imgur.com/xIAk3m7" alt="cyberpunk" width="250" />
+<img src="imgur.com/xIAk3m7" alt="cyberpunk" width="250" />
 
 WakeYour Devices
 
